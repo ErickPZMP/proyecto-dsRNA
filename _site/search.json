@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "dsRNA",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "proyecto dsRNA",
+    "section": "",
+    "text": "Note\n\n\n\n##“dsRNA de 22 nt basado (Chen and Hur 2021)”"
+  },
+  {
+    "objectID": "index.html#se-utilizo-la-secuencia-de-proteinas-correspondiente-a-rin4-de-citris-sinensis-burbano-orjuela2016",
+    "href": "index.html#se-utilizo-la-secuencia-de-proteinas-correspondiente-a-rin4-de-citris-sinensis-burbano-orjuela2016",
+    "title": "proyecto dsRNA",
+    "section": "se utilizo la secuencia de proteinas correspondiente a RIN4 de Citris sinensis (Burbano-Orjuela 2016):",
+    "text": "se utilizo la secuencia de proteinas correspondiente a RIN4 de Citris sinensis (Burbano-Orjuela 2016):\n\nMAQRSHVPKFGNWENEDNVPYTMYFDKARKGRTGGTMINPNDPQENPDLL SDYEAQAPAPPSKIKAEPEKPLGQEAVRTTYERWRNKEGSDLRQSRDSPA RHDDMSCRAATESAHQRGGRVASSGETYKKPVRNSIGSDNSFERSPMHNQ ARNPRRGSLDSSSPSWEGKSVYTNSHGTPGRSRMRPNPRVDESPDKGAAV PKFGDWDENNPSSADGYTHIFNQVREERNSAGRAGMQSPSTQRNYHRPTN NDGVKSCCFPWGKK"
+  },
+  {
+    "objectID": "index.html#resultados-del-silenciamiento-de-genes-mediante-dsrna-de-genes-chlh-en-a.-thaliana",
+    "href": "index.html#resultados-del-silenciamiento-de-genes-mediante-dsrna-de-genes-chlh-en-a.-thaliana",
+    "title": "proyecto dsRNA",
+    "section": "Resultados del silenciamiento de genes mediante dsRNA de genes CHLH en A. thaliana",
+    "text": "Resultados del silenciamiento de genes mediante dsRNA de genes CHLH en A. thaliana\n\n\n\nResultados de sielenciamiento de CHLH en A. thaliana(Hendrix et al. 2021)."
+  },
+  {
+    "objectID": "index.html#mecanismos-de-silenciamiento-genico",
+    "href": "index.html#mecanismos-de-silenciamiento-genico",
+    "title": "proyecto dsRNA",
+    "section": "Mecanismos de silenciamiento genico",
+    "text": "Mecanismos de silenciamiento genico\n\nLa interferencia de ARN (RNAi) es un mecanismo de silenciamiento genético utilizado por plantas y otros eucariotas para regular la expresión de genes endógenos, silenciar transposones (y otras regiones heterocromáticas) y defenderse de infecciones virales (Baulcombe 2004 ). Se logra mediante la acción de un ARN pequeño (sRNA) con complementariedad con la secuencia del gen diana unido a una proteína argonauta (AGO) para formar un complejo de silenciamiento inducido por ARN (RISC). El silenciamiento puede ocurrir a nivel transcripcional o postranscripcional, dependiendo de las formas específicas de estos componentes. Los siRNA secundarios (también denominados siRNA transitivos) se pueden producir a partir de transcripciones dirigidas por miRNA o siRNA (Moissiard et al. 2007 ). Estos siRNA secundarios pueden amplificar el silenciamiento del objetivo primario o actuar en trans para silenciar a miembros de una familia de genes, como el ejemplo bien estudiado de los ARNm de resistencia a enfermedades NBS-LRR (Axtell 2013 ). La producción de siRNA secundarios requiere la ARN polimerasa 6 dependiente de ARN (RDR6) y DCL4 y, a veces, es por fases (Axtell 2013 ). Si bien existen múltiples factores que pueden iniciar la producción de siRNA secundarios (Axtell 2013 ), se producen en respuesta a miRNA de 22 nt, mientras que los miRNA de 21 nt no suelen tener este efecto (Chen et al. 2010 ; Cuperus et al. 2010 ). La importancia funcional de los miRNA de 22 nt se demostró utilizando miRNA artificiales (amiRNA) en plantas transgénicas de Arabidopsis, donde el silenciamiento de toda la planta de un gen de chalcona sintasa (CHS) específico solo se logró con un amiRNA de 22 nt, y no con el amiRNA de 21 nt correspondiente (McHale et al. 2013 ). Este efecto dependía de RDR6, y se demostró la generación de phasiRNA. Los autores plantearon la hipótesis de que el silenciamiento mejorado podría deberse a una mayor movilidad de los siRNA (Tretter et al. 2008 ; Felippes et al. 2011 ) o a la producción de una cantidad significativa de siRNA adicionales homólogos a CHS que permiten la eliminación de genes en toda la planta."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  }
+]

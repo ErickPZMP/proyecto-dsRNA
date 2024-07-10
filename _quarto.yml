@@ -13,7 +13,17 @@ website:
 format:
   html:
     theme: cosmo
+    pdf:
+    toc: false
+    number-sections: false
+    colorlinks: true
+    pipersize: letter
+  
+execute: 
     css: styles.css
 
 editor: visual
+
+
+
 

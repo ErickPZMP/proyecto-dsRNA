@@ -1,0 +1,15 @@
+{
+  "hash": "37ac92393f68b24e9a5bd578b9b3cfe2",
+  "result": {
+    "engine": "knitr",
+    "markdown": "::: {.cell}\n\n:::\n\n::: {.cell}\n\n:::\n\n::: {.cell}\n\n:::\n\n::: {.cell}\n\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

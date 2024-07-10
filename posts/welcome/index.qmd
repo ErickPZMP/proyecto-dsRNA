@@ -1,8 +1,8 @@
 ---
-title: "Welcome To My Blog"
-author: "Tristan O'Malley"
+title: "dsRNA"
+author: "Mendoza Perez et al., 2024"
 date: "2024-06-30"
-categories: [news]
+categories: [avance de tesis]
 ---
 
 This is the first post in a Quarto blog. Welcome!
