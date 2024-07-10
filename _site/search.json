@@ -9,30 +9,30 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "proyecto dsRNA",
+    "title": "Aplicación tópica de ARN de doble cadena (dsRNA) para reprimir la expresión del gen RIN4 en Citrus sinensis con HLB",
     "section": "",
-    "text": "Note\n\n\n\n##“dsRNA de 22 nt basado (Chen and Hur 2021)”"
+    "text": "El Huanglongbing (HLB) se presenta principalmente en cítricos y afecta los tejidos del floema, causando problemas para la traslocación de asimilados en las plantas susceptibles(Folimonova 2020). Además, causa desequilibrios metabólicos en el huésped por agotamiento de nutrientes e interferencia del transporte(Zhaxi et al. 2020). En la actualidad es posible regular negativamente la expresión de genes particulares para el control de la resistencia a patógenos, la tolerancia al estrés abiótico, los procesos de crecimiento y otras propiedades de las plantas mediante la inducción de ARN de interferencia (ARNi)(Guo 2022).\nSe ha demostrado que los dsRNA confieren resistencia a enfermedades mediante la pulverización foliar, denominado silenciamiento genético inducido por pulverización o por spray (SIGS). Un estudio realizado en genes del complejo RPM1-RIN4-RPS2 mostró que la expresión del gen RIN4 en naranja enferma con HLB es mayor respecto a limón persa con HLB, lo cual tiene una relación que suprime al gen RPS2 de manera descontrolada, el cual está encargado de la activación mecanismos de respuesta a enfermedades. Por ende, se busca reducir la expresión del gen RIN4 y sentar las bases para un tratamiento foliar con base en dsRNA en cítricos susceptibles al HLB.\n\n\n\n\n\n\n\nWarning"
   },
   {
     "objectID": "index.html#se-utilizo-la-secuencia-de-proteinas-correspondiente-a-rin4-de-citris-sinensis-burbano-orjuela2016",
     "href": "index.html#se-utilizo-la-secuencia-de-proteinas-correspondiente-a-rin4-de-citris-sinensis-burbano-orjuela2016",
-    "title": "proyecto dsRNA",
-    "section": "se utilizo la secuencia de proteinas correspondiente a RIN4 de Citris sinensis (Burbano-Orjuela 2016):",
-    "text": "se utilizo la secuencia de proteinas correspondiente a RIN4 de Citris sinensis (Burbano-Orjuela 2016):\n\nMAQRSHVPKFGNWENEDNVPYTMYFDKARKGRTGGTMINPNDPQENPDLL SDYEAQAPAPPSKIKAEPEKPLGQEAVRTTYERWRNKEGSDLRQSRDSPA RHDDMSCRAATESAHQRGGRVASSGETYKKPVRNSIGSDNSFERSPMHNQ ARNPRRGSLDSSSPSWEGKSVYTNSHGTPGRSRMRPNPRVDESPDKGAAV PKFGDWDENNPSSADGYTHIFNQVREERNSAGRAGMQSPSTQRNYHRPTN NDGVKSCCFPWGKK"
+    "title": "Aplicación tópica de ARN de doble cadena (dsRNA) para reprimir la expresión del gen RIN4 en Citrus sinensis con HLB",
+    "section": "Se utilizo la secuencia de proteinas correspondiente a RIN4 de Citris sinensis (Burbano-Orjuela 2016):",
+    "text": "Se utilizo la secuencia de proteinas correspondiente a RIN4 de Citris sinensis (Burbano-Orjuela 2016):\n\nMAQRSHVPKFGNWENEDNVPYTMYFDKARKGRTGGTMINPNDPQENPDLL SDYEAQAPAPPSKIKAEPEKPLGQEAVRTTYERWRNKEGSDLRQSRDSPA RHDDMSCRAATESAHQRGGRVASSGETYKKPVRNSIGSDNSFERSPMHNQ ARNPRRGSLDSSSPSWEGKSVYTNSHGTPGRSRMRPNPRVDESPDKGAAV PKFGDWDENNPSSADGYTHIFNQVREERNSAGRAGMQSPSTQRNYHRPTN NDGVKSCCFPWGKK"
   },
   {
     "objectID": "index.html#resultados-del-silenciamiento-de-genes-mediante-dsrna-de-genes-chlh-en-a.-thaliana",
     "href": "index.html#resultados-del-silenciamiento-de-genes-mediante-dsrna-de-genes-chlh-en-a.-thaliana",
-    "title": "proyecto dsRNA",
+    "title": "Aplicación tópica de ARN de doble cadena (dsRNA) para reprimir la expresión del gen RIN4 en Citrus sinensis con HLB",
     "section": "Resultados del silenciamiento de genes mediante dsRNA de genes CHLH en A. thaliana",
     "text": "Resultados del silenciamiento de genes mediante dsRNA de genes CHLH en A. thaliana\n\n\n\nResultados de sielenciamiento de CHLH en A. thaliana(Hendrix et al. 2021)."
   },
   {
     "objectID": "index.html#mecanismos-de-silenciamiento-genico",
     "href": "index.html#mecanismos-de-silenciamiento-genico",
-    "title": "proyecto dsRNA",
+    "title": "Aplicación tópica de ARN de doble cadena (dsRNA) para reprimir la expresión del gen RIN4 en Citrus sinensis con HLB",
     "section": "Mecanismos de silenciamiento genico",
-    "text": "Mecanismos de silenciamiento genico\n\nLa interferencia de ARN (RNAi) es un mecanismo de silenciamiento genético utilizado por plantas y otros eucariotas para regular la expresión de genes endógenos, silenciar transposones (y otras regiones heterocromáticas) y defenderse de infecciones virales (Baulcombe 2004 ). Se logra mediante la acción de un ARN pequeño (sRNA) con complementariedad con la secuencia del gen diana unido a una proteína argonauta (AGO) para formar un complejo de silenciamiento inducido por ARN (RISC). El silenciamiento puede ocurrir a nivel transcripcional o postranscripcional, dependiendo de las formas específicas de estos componentes. Los siRNA secundarios (también denominados siRNA transitivos) se pueden producir a partir de transcripciones dirigidas por miRNA o siRNA (Moissiard et al. 2007 ). Estos siRNA secundarios pueden amplificar el silenciamiento del objetivo primario o actuar en trans para silenciar a miembros de una familia de genes, como el ejemplo bien estudiado de los ARNm de resistencia a enfermedades NBS-LRR (Axtell 2013 ). La producción de siRNA secundarios requiere la ARN polimerasa 6 dependiente de ARN (RDR6) y DCL4 y, a veces, es por fases (Axtell 2013 ). Si bien existen múltiples factores que pueden iniciar la producción de siRNA secundarios (Axtell 2013 ), se producen en respuesta a miRNA de 22 nt, mientras que los miRNA de 21 nt no suelen tener este efecto (Chen et al. 2010 ; Cuperus et al. 2010 ). La importancia funcional de los miRNA de 22 nt se demostró utilizando miRNA artificiales (amiRNA) en plantas transgénicas de Arabidopsis, donde el silenciamiento de toda la planta de un gen de chalcona sintasa (CHS) específico solo se logró con un amiRNA de 22 nt, y no con el amiRNA de 21 nt correspondiente (McHale et al. 2013 ). Este efecto dependía de RDR6, y se demostró la generación de phasiRNA. Los autores plantearon la hipótesis de que el silenciamiento mejorado podría deberse a una mayor movilidad de los siRNA (Tretter et al. 2008 ; Felippes et al. 2011 ) o a la producción de una cantidad significativa de siRNA adicionales homólogos a CHS que permiten la eliminación de genes en toda la planta."
+    "text": "Mecanismos de silenciamiento genico\n\nLa interferencia de ARN (RNAi) es un mecanismo de silenciamiento genético utilizado por plantas y otros eucariotas para regular la expresión de genes endógenos, silenciar transposones (y otras regiones heterocromáticas) y defenderse de infecciones virales (Baulcombe 2004 ). Se logra mediante la acción de un ARN pequeño (sRNA) con complementariedad con la secuencia del gen diana unido a una proteína argonauta (AGO) para formar un complejo de silenciamiento inducido por ARN (RISC). El silenciamiento puede ocurrir a nivel transcripcional o postranscripcional, dependiendo de las formas específicas de estos componentes. Los siRNA secundarios (también denominados siRNA transitivos) se pueden producir a partir de transcripciones dirigidas por miRNA o siRNA (Moissiard et al. 2007 ). Estos siRNA secundarios pueden amplificar el silenciamiento del objetivo primario o actuar en trans para silenciar a miembros de una familia de genes, como el ejemplo bien estudiado de los ARNm de resistencia a enfermedades NBS-LRR (Axtell 2013 ). La producción de siRNA secundarios requiere la ARN polimerasa 6 dependiente de ARN (RDR6) y DCL4 y, a veces, es por fases (Axtell 2013 ). Si bien existen múltiples factores que pueden iniciar la producción de siRNA secundarios (Axtell 2013 ), se producen en respuesta a miRNA de 22 nt, mientras que los miRNA de 21 nt no suelen tener este efecto (Chen et al. 2010 ; Cuperus et al. 2010 ). La importancia funcional de los miRNA de 22 nt se demostró utilizando miRNA artificiales (amiRNA) en plantas transgénicas de Arabidopsis, donde el silenciamiento de toda la planta de un gen de chalcona sintasa (CHS) específico solo se logró con un amiRNA de 22 nt, y no con el amiRNA de 21 nt correspondiente (McHale et al. 2013 ). Este efecto dependía de RDR6, y se demostró la generación de phasiRNA. Los autores plantearon la hipótesis de que el silenciamiento mejorado podría deberse a una mayor movilidad de los siRNA (Tretter et al. 2008 ; Felippes et al. 2011 ) o a la producción de una cantidad significativa de siRNA adicionales homólogos a CHS que permiten la eliminación de genes en toda la planta.\n\n\nsuppressPackageStartupMessages(library(tidyverse))\nlibrary(ggplot2)\nlibrary(readxl)\nestadistica_moles_Erick &lt;- read_excel(\"~/2024/TAREAS MAESTRIA/Estadistica/estadistica moles Erick.xlsm\")"
   },
   {
     "objectID": "about.html",
@@ -47,5 +47,103 @@
     "title": "Post With Code",
     "section": "",
     "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#impscto-del-hlb-en-la-citriculcura",
+    "href": "index.html#impscto-del-hlb-en-la-citriculcura",
+    "title": "Aplicación tópica de ARN de doble cadena (dsRNA) para reprimir la expresión del gen RIN4 en Citrus sinensis con HLB",
+    "section": "",
+    "text": "El Huanglongbing (HLB) se presenta principalmente en cítricos y afecta los tejidos del floema ::: callout-note ##“dsRNA de 22 nt basado (Chen and Hur 2021)”\n\n\n\n\n\n\n\nWarning\n\n\n\nLos resulyados de investigaciones anteriores señalan que solamente es posible realizar el silenciamiento de genes en plantas modelo como A. thaliana, por lo que el uso en citricos como Citris sinensis esta por evaluar.\n\n\n\n\nUsos de silenciamiento genico para reducir expresion de RIN4"
+  },
+  {
+    "objectID": "index.html#impacto-del-hlb-en-la-citriculcura",
+    "href": "index.html#impacto-del-hlb-en-la-citriculcura",
+    "title": "Aplicación tópica de ARN de doble cadena (dsRNA) para reprimir la expresión del gen RIN4 en Citrus sinensis con HLB",
+    "section": "",
+    "text": "El Huanglongbing (HLB) se presenta principalmente en cítricos y afecta los tejidos del floema, causando problemas para la traslocación de asimilados en las plantas susceptibles(Folimonova 2020). Además, causa desequilibrios metabólicos en el huésped por agotamiento de nutrientes e interferencia del transporte(Zhaxi et al. 2020). En la actualidad es posible regular negativamente la expresión de genes particulares para el control de la resistencia a patógenos, la tolerancia al estrés abiótico, los procesos de crecimiento y otras propiedades de las plantas mediante la inducción de ARN de interferencia (ARNi)(Guo 2022).\nSe ha demostrado que los dsRNA confieren resistencia a enfermedades mediante la pulverización foliar, denominado silenciamiento genético inducido por pulverización o por spray (SIGS). Un estudio realizado en genes del complejo RPM1-RIN4-RPS2 mostró que la expresión del gen RIN4 en naranja enferma con HLB es mayor respecto a limón persa con HLB, lo cual tiene una relación que suprime al gen RPS2 de manera descontrolada, el cual está encargado de la activación mecanismos de respuesta a enfermedades. Por ende, se busca reducir la expresión del gen RIN4 y sentar las bases para un tratamiento foliar con base en dsRNA en cítricos susceptibles al HLB.\n\n\n\n\n\n\n\nWarning"
+  },
+  {
+    "objectID": "index.html#section",
+    "href": "index.html#section",
+    "title": "Aplicación tópica de ARN de doble cadena (dsRNA) para reprimir la expresión del gen RIN4 en Citrus sinensis con HLB",
+    "section": "",
+    "text": "Usos de silenciamiento genico para reducir expresion de RIN4"
+  },
+  {
+    "objectID": "index.html#complejo-rpm1-rin4-rps2",
+    "href": "index.html#complejo-rpm1-rin4-rps2",
+    "title": "Aplicación tópica de ARN de doble cadena (dsRNA) para reprimir la expresión del gen RIN4 en Citrus sinensis con HLB",
+    "section": "Complejo RPM1-RIN4-RPS2",
+    "text": "Complejo RPM1-RIN4-RPS2\nDadas las funciones reguladoras negativas de RIN4 en los procesos relacionados con la defensa en muchas plantas, autores como Cheng et al., (2022) señalan que la regulación positiva del gen RIN4 puede modificar en las interacciones cítrico-bacteria, y su expresión puede estar relacionada con la alta susceptibilidad de los cítricos al HLB. Una investigación realizada por Mendoza-Pérez (2023), sobre la interacción de RIN4 dentro del complejo RPM1-RIN4-RPS2 en dos especias contrastantes al HLB (limón y naranja), se mostró que la expresión del gen RIN4 en limón persa es menor, en comparación con la expresión de RIN4 de naranja, como se observar en la figura 1. A su vez, podemos apreciar que la expresión del gen RPS2 en limón es considerablemente mayor que en naranja. Gracias a la relación que existe entre RIN4 y RPS2, el gen RIN4 de naranja está afectando la expresión de RPS2, a diferencia de lo que está ocurriendo en limón."
+  },
+  {
+    "objectID": "index.html#se-utilizo-la-secuencia-de-proteinas-correspondiente-a-rin4-de-citris-sinensis",
+    "href": "index.html#se-utilizo-la-secuencia-de-proteinas-correspondiente-a-rin4-de-citris-sinensis",
+    "title": "Aplicación tópica de ARN de doble cadena (dsRNA) para reprimir la expresión del gen RIN4 en Citrus sinensis con HLB",
+    "section": "Se utilizo la secuencia de proteinas correspondiente a RIN4 de Citris sinensis:",
+    "text": "Se utilizo la secuencia de proteinas correspondiente a RIN4 de Citris sinensis:\n\nMAQRSHVPKFGNWENEDNVPYTMYFDKARKGRTGGTMINPNDPQENPDLL SDYEAQAPAPPSKIKAEPEKPLGQEAVRTTYERWRNKEGSDLRQSRDSPA RHDDMSCRAATESAHQRGGRVASSGETYKKPVRNSIGSDNSFERSPMHNQ ARNPRRGSLDSSSPSWEGKSVYTNSHGTPGRSRMRPNPRVDESPDKGAAV PKFGDWDENNPSSADGYTHIFNQVREERNSAGRAGMQSPSTQRNYHRPTN NDGVKSCCFPWGKK"
+  },
+  {
+    "objectID": "posts/2024-07-10-rna/index.html",
+    "href": "posts/2024-07-10-rna/index.html",
+    "title": "Uso de SIGs para silenciamiento génico",
+    "section": "",
+    "text": "El Huanglongbing (HLB) se presenta principalmente en cítricos y afecta los tejidos del floema, causando problemas para la traslocación de asimilados en las plantas susceptibles(Folimonova 2020). Además, causa desequilibrios metabólicos en el huésped por agotamiento de nutrientes e interferencia del transporte(Zhaxi et al. 2020). En la actualidad es posible regular negativamente la expresión de genes particulares para el control de la resistencia a patógenos, la tolerancia al estrés abiótico, los procesos de crecimiento y otras propiedades de las plantas mediante la inducción de ARN de interferencia (ARNi)(Guo 2022).\nSe ha demostrado que los dsRNA confieren resistencia a enfermedades mediante la pulverización foliar, denominado silenciamiento genético inducido por pulverización o por spray (SIGS). Un estudio realizado en genes del complejo RPM1-RIN4-RPS2 mostró que la expresión del gen RIN4 en naranja enferma con HLB es mayor respecto a limón persa con HLB, lo cual tiene una relación que suprime al gen RPS2 de manera descontrolada, el cual está encargado de la activación mecanismos de respuesta a enfermedades. Por ende, se busca reducir la expresión del gen RIN4 y sentar las bases para un tratamiento foliar con base en dsRNA en cítricos susceptibles al HLB.\n\n\n\n\n\n\n\nWarning\n\n\n\n\nEl uso de esta tecnologia solo se ha probado para el sielenciamento de genes exogenos en agentes patogenos."
+  },
+  {
+    "objectID": "posts/2024-07-10-rna/index.html#impacto-del-hlb-en-la-citriculcura",
+    "href": "posts/2024-07-10-rna/index.html#impacto-del-hlb-en-la-citriculcura",
+    "title": "Uso de SIGs para silenciamiento génico",
+    "section": "",
+    "text": "El Huanglongbing (HLB) se presenta principalmente en cítricos y afecta los tejidos del floema, causando problemas para la traslocación de asimilados en las plantas susceptibles(Folimonova 2020). Además, causa desequilibrios metabólicos en el huésped por agotamiento de nutrientes e interferencia del transporte(Zhaxi et al. 2020). En la actualidad es posible regular negativamente la expresión de genes particulares para el control de la resistencia a patógenos, la tolerancia al estrés abiótico, los procesos de crecimiento y otras propiedades de las plantas mediante la inducción de ARN de interferencia (ARNi)(Guo 2022).\nSe ha demostrado que los dsRNA confieren resistencia a enfermedades mediante la pulverización foliar, denominado silenciamiento genético inducido por pulverización o por spray (SIGS). Un estudio realizado en genes del complejo RPM1-RIN4-RPS2 mostró que la expresión del gen RIN4 en naranja enferma con HLB es mayor respecto a limón persa con HLB, lo cual tiene una relación que suprime al gen RPS2 de manera descontrolada, el cual está encargado de la activación mecanismos de respuesta a enfermedades. Por ende, se busca reducir la expresión del gen RIN4 y sentar las bases para un tratamiento foliar con base en dsRNA en cítricos susceptibles al HLB.\n\n\n\n\n\n\n\nWarning\n\n\n\n\nEl uso de esta tecnologia solo se ha probado para el sielenciamento de genes exogenos en agentes patogenos."
+  },
+  {
+    "objectID": "posts/2024-07-10-rna/index.html#complejo-rpm1-rin4-rps2",
+    "href": "posts/2024-07-10-rna/index.html#complejo-rpm1-rin4-rps2",
+    "title": "Uso de SIGs para silenciamiento génico",
+    "section": "Complejo RPM1-RIN4-RPS2",
+    "text": "Complejo RPM1-RIN4-RPS2\nDadas las funciones reguladoras negativas de RIN4 en los procesos relacionados con la defensa en muchas plantas, autores como (Cheng et al. 2022) señalan que la regulación positiva del gen RIN4 puede modificar en las interacciones cítrico-bacteria, y su expresión puede estar relacionada con la alta susceptibilidad de los cítricos al HLB. Una investigación realizada por Mendoza-Pérez (2023), sobre la interacción de RIN4 dentro del complejo RPM1-RIN4-RPS2 en dos especias contrastantes al HLB (limón y naranja), se mostró que la expresión del gen RIN4 en limón persa es menor, en comparación con la expresión de RIN4 de naranja, como se observar en la figura 1. A su vez, podemos apreciar que la expresión del gen RPS2 en limón es considerablemente mayor que en naranja. Gracias a la relación que existe entre RIN4 y RPS2, el gen RIN4 de naranja está afectando la expresión de RPS2, a diferencia de lo que está ocurriendo en limón."
+  },
+  {
+    "objectID": "posts/2024-07-10-rna/index.html#se-utilizo-la-secuencia-de-proteinas-correspondiente-a-rin4-de-citris-sinensis",
+    "href": "posts/2024-07-10-rna/index.html#se-utilizo-la-secuencia-de-proteinas-correspondiente-a-rin4-de-citris-sinensis",
+    "title": "Uso de SIGs para silenciamiento génico",
+    "section": "Se utilizo la secuencia de proteinas correspondiente a RIN4 de Citris sinensis:",
+    "text": "Se utilizo la secuencia de proteinas correspondiente a RIN4 de Citris sinensis:\n\nMAQRSHVPKFGNWENEDNVPYTMYFDKARKGRTGGTMINPNDPQENPDLL SDYEAQAPAPPSKIKAEPEKPLGQEAVRTTYERWRNKEGSDLRQSRDSPA RHDDMSCRAATESAHQRGGRVASSGETYKKPVRNSIGSDNSFERSPMHNQ ARNPRRGSLDSSSPSWEGKSVYTNSHGTPGRSRMRPNPRVDESPDKGAAV PKFGDWDENNPSSADGYTHIFNQVREERNSAGRAGMQSPSTQRNYHRPTN NDGVKSCCFPWGKK"
+  },
+  {
+    "objectID": "posts/2024-07-10-rna/index.html#resultados-del-silenciamiento-de-genes-mediante-dsrna-de-genes-chlh-en-a.-thaliana",
+    "href": "posts/2024-07-10-rna/index.html#resultados-del-silenciamiento-de-genes-mediante-dsrna-de-genes-chlh-en-a.-thaliana",
+    "title": "Uso de SIGs para silenciamiento génico",
+    "section": "Resultados del silenciamiento de genes mediante dsRNA de genes CHLH en A. thaliana",
+    "text": "Resultados del silenciamiento de genes mediante dsRNA de genes CHLH en A. thaliana\n\n\n\nResultados de sielenciamiento de CHLH en A. thaliana(Hendrix et al. 2021)."
+  },
+  {
+    "objectID": "posts/2024-07-10-rna/index.html#mecanismos-de-silenciamiento-genico",
+    "href": "posts/2024-07-10-rna/index.html#mecanismos-de-silenciamiento-genico",
+    "title": "Uso de SIGs para silenciamiento génico",
+    "section": "Mecanismos de silenciamiento genico",
+    "text": "Mecanismos de silenciamiento genico\n\nLa interferencia de ARN (RNAi) es un mecanismo de silenciamiento genético utilizado por plantas y otros eucariotas para regular la expresión de genes endógenos, silenciar transposones (y otras regiones heterocromáticas) y defenderse de infecciones virales (Baulcombe 2004). Se logra mediante la acción de un ARN pequeño (sRNA) con complementariedad con la secuencia del gen diana unido a una proteína argonauta (AGO) para formar un complejo de silenciamiento inducido por ARN (RISC). El silenciamiento puede ocurrir a nivel transcripcional o postranscripcional, dependiendo de las formas específicas de estos componentes. Estos siRNA secundarios pueden amplificar el silenciamiento del objetivo primario o actuar en trans para silenciar a miembros de una familia de genes, como el ejemplo bien estudiado de los ARNm de resistencia a enfermedades NBS-LRR (Axtell and Staskawicz 2003)."
+  },
+  {
+    "objectID": "posts/2024-07-10-rna/index.html#rpm1",
+    "href": "posts/2024-07-10-rna/index.html#rpm1",
+    "title": "Uso de SIGs para silenciamiento génico",
+    "section": "RPM1",
+    "text": "RPM1"
+  },
+  {
+    "objectID": "posts/2024-07-10-rna/index.html#rin4",
+    "href": "posts/2024-07-10-rna/index.html#rin4",
+    "title": "Uso de SIGs para silenciamiento génico",
+    "section": "RIN4",
+    "text": "RIN4\nEncargade activar los mecanismos de interacccion planta patogeno ETI y PTI ## RPM1 Permite la deteccion de agentes de AVR y AVG # RPS2 Encargado de activar las respuestas hipersencibles de las plantas"
+  },
+  {
+    "objectID": "posts/2024-07-10-rna/index.html#obtencion-de-secuencias-pertenecientes-al-gen-rin4",
+    "href": "posts/2024-07-10-rna/index.html#obtencion-de-secuencias-pertenecientes-al-gen-rin4",
+    "title": "Uso de SIGs para silenciamiento génico",
+    "section": "Obtencion de secuencias pertenecientes al gen RIN4",
+    "text": "Obtencion de secuencias pertenecientes al gen RIN4\nSe realizo el alineamiento de las secuencias del gen RIN4 usando como base RIN4 de A. thaliana. Una vez identificadas las secuencias RIN4 de C. sinensis se identifico la proteina correspondiente.\n\nProteina RIN4 C. sinensisProteina A. ThalianaSecuencia ARNm de C. sinensis\n\n\n\nMAQRSHVPKFGNWENEDNVPYTMYFDKARKGRTGGTMINPNDPQENPDLL SDYEAQAPAPPSKIKAEPEKPLGQEAVRTTYERWRNKEGSDLRQSRDSPA RHDDMSCRAATESAHQRGGRVASSGETYKKPVRNSIGSDNSFERSPMHNQ ARNPRRGSLDSSSPSWEGKSVYTNSHGTPGRSRMRPNPRVDESPDKGAAV PKFGDWDENNPSSADGYTHIFNQVREERNSAGRAGMQSPSTQRNYHRPTN NDGVKSCCFPWGKK\n\n\n\nMARSNVPKFGNWEAEENVPYTAYFDKARKTRAPGSKIMNPNDPEYNSDSQSQAPPHPPSSRTK PEQVDTVRRSREHMRSREESELKQFGDAGGSSNEAANKRQGRASQNNSYDNKSPLHKNSYDGT GKSRPKPTNLRADESPEKVTVVPKFGDWDENNPSSADGYTHIFNKVREERSSGANVSGSSRTP THQSSRNPNNTSSCCCFGFGGK\n\n\nATGGCACAACGTTCACATGTACCGAAGTTTGGAAACTGGGAAAATGAAGA TAATGTTCCTTACACAATGTATTTTGACAAGGCCAGGAAGGGTCGGACTG GGGGGACGATGATTAATCCAAATGACCCGCAGGAGAACCCGGACTTATTG TCTGATTATGAAGCTCAAGCTCCAGCTCCTCCTTCCAAGATCAAAGCTGA ACCAGAGAAGCCTCTGGGACAAGAAGCAGTTAGAACAACTTATGAAAGAT GGAGGAACAAAGAGGGTAGTGATCTCAGGCAGTCCAGAGACTCACCAGCA CGTCATGATGACATGAGCTGCAGAGCTGCCACTGAGTCTGCTCATCAACG AGGAGGTCGTGTAGCAAGTTCTGGTGAAACATACAAGAAGCCTGTAAGAA ACAGTATAGGTTCAGACAACAGCTTTGAACGCTCCCCTATGCATAATCAG GCTAGGAACCCCAGAAGAGGTAGTCTGGATTCATCCTCTCCTTCATGGGA AGGAAAGAGTGTGTATACAAATAGCCATGGTACTCCTGGAAGATCTCGAA TGAGGCCAAATCCAAGAGTCGATGAAAGTCCTGATAAAGGGGCTGCAGTT CCTAAATTTGGGGATTGGGATGAGAATAACCCTTCATCAGCTGATGGTTA CACTCACATTTTTAACCAAGTGCGAGAGGAGAGAAACAGTGCAGGAAGAG CAGGCATGCAAAGTCCTTCCACGCAGAGAAACTATCATAGGCCAACTAAT AATGACGGTGTCAAGAGTTGTTGCTTTCCTTGGGGCAAGAAATAA"
   }
 ]

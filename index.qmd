@@ -1,5 +1,5 @@
 ---
-title: "proyecto dsRNA"
+title: "Aplicación tópica de ARN de doble cadena (dsRNA) para reprimir la expresión del gen RIN4 en Citrus sinensis con HLB"
 .listing:
   contents: posts
   sort: "date desc"
@@ -9,38 +9,4 @@ title: "proyecto dsRNA"
   filter-ui: false
 page-layout: full
 title-block-banner: true
-
-bibliography: references.bib
 ---
-
-::: callout-note
-\##"dsRNA de 22 nt basado [@Chen2022] "
-:::
-
-::: callout-warning
-Los resulyados de investigaciones anteriores señalan que solamente es posible realizar el silenciamiento de genes en plantas modelo como A. thaliana, por lo que el uso en citricos como Citris sinensis esta por evaluar.
-:::
-
-------------------------------------------------------------------------
-
-::: {style="color:#CD5C5C"}
-Usos de silenciamiento genico para reducir expresion de RIN4
-:::
-
-## se utilizo la secuencia de proteinas correspondiente a RIN4 de Citris sinensis [@burbano-orjuela2016]:
-
-::: {style="color:#000080"}
-MAQRSHVPKFGNWENEDNVPYTMYFDKARKGRTGGTMINPNDPQENPDLL SDYEAQAPAPPSKIKAEPEKPLGQEAVRTTYERWRNKEGSDLRQSRDSPA RHDDMSCRAATESAHQRGGRVASSGETYKKPVRNSIGSDNSFERSPMHNQ ARNPRRGSLDSSSPSWEGKSVYTNSHGTPGRSRMRPNPRVDESPDKGAAV PKFGDWDENNPSSADGYTHIFNQVREERNSAGRAGMQSPSTQRNYHRPTN NDGVKSCCFPWGKK
-:::
-
-## Resultados del silenciamiento de genes mediante dsRNA de genes CHLH en A. thaliana
-
-![Resultados de sielenciamiento de CHLH en A. thaliana[@Hendrix2021].](A.%20thaliana.jpg)
-
-## Mecanismos de silenciamiento genico
-
-::: {style="text-align:justify"}
-La interferencia de ARN (RNAi) es un mecanismo de silenciamiento genético utilizado por plantas y otros eucariotas para regular la expresión de genes endógenos, silenciar transposones (y otras regiones heterocromáticas) y defenderse de infecciones virales (Baulcombe 2004 ). Se logra mediante la acción de un ARN pequeño (sRNA) con complementariedad con la secuencia del gen diana unido a una proteína argonauta (AGO) para formar un complejo de silenciamiento inducido por ARN (RISC). El silenciamiento puede ocurrir a nivel transcripcional o postranscripcional, dependiendo de las formas específicas de estos componentes. Los siRNA secundarios (también denominados siRNA transitivos) se pueden producir a partir de transcripciones dirigidas por miRNA o siRNA (Moissiard et al. 2007 ). Estos siRNA secundarios pueden amplificar el silenciamiento del objetivo primario o actuar en trans para silenciar a miembros de una familia de genes, como el ejemplo bien estudiado de los ARNm de resistencia a enfermedades NBS-LRR (Axtell 2013 ). La producción de siRNA secundarios requiere la ARN polimerasa 6 dependiente de ARN (RDR6) y DCL4 y, a veces, es por fases (Axtell 2013 ). Si bien existen múltiples factores que pueden iniciar la producción de siRNA secundarios (Axtell 2013 ), se producen en respuesta a miRNA de 22 nt, mientras que los miRNA de 21 nt no suelen tener este efecto (Chen et al. 2010 ; Cuperus et al. 2010 ). La importancia funcional de los miRNA de 22 nt se demostró utilizando miRNA artificiales (amiRNA) en plantas transgénicas de Arabidopsis, donde el silenciamiento de toda la planta de un gen de chalcona sintasa (CHS) específico solo se logró con un amiRNA de 22 nt, y no con el amiRNA de 21 nt correspondiente (McHale et al. 2013 ). Este efecto dependía de RDR6, y se demostró la generación de phasiRNA. Los autores plantearon la hipótesis de que el silenciamiento mejorado podría deberse a una mayor movilidad de los siRNA (Tretter et al. 2008 ; Felippes et al. 2011 ) o a la producción de una cantidad significativa de siRNA adicionales homólogos a CHS que permiten la eliminación de genes en toda la planta.
-:::
-
-| 
