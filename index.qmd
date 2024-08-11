@@ -1,6 +1,6 @@
 ---
-title: "Aplicación tópica de ARN de doble cadena (dsRNA) para reprimir la expresión del gen RIN4 en Citrus sinensis con HLB"
-.listing:
+title: "Aplicación exógena de ARN de doble cadena (dsRNA) para reprimir la expresión del gen *RIN4* en plantas de *Citrus sinensis* enfermas con HLB"
+listing:
   contents: posts
   sort: "date desc"
   type: default

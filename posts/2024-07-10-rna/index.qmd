@@ -1,86 +1,207 @@
 ---
-title: "Uso de SIGs para silenciamiento génico"
+title: "Aplicación exógena de ARN de doble cadena (dsRNA) para reprimir la expresión del gen *RIN4* en plantas de *Citrus sinensis* enfermas con HLB
+"
 author: "Erick A. Mendoza Perez"
 date: "2024-07-07"
-categories: [news]
+categories: [RIN4]
 
 bibliography: references.bib
 ---
+
+## Introducción
+::: {style="text-align:justify"}
+La naranja es uno de los cítricos con mayor importancia económica en México, es afectada por el HLB que genera pérdidas millonarias. La variabilidad en la tolerancia ante el HLB varía según la especie de cítrico y se debe a una diferencia en la expresión de genes específicos. Estudios recientes muestran que la tolerancia al HLB podría estar asociado negativamente a la expresión del gen *RIN4* (proteína encargada de activar la inmunidad vegetal), pues este gen se expresa más en especies susceptibles al HLB como la naranja, pero se reprime en especies tolerantes como el limón persa. Actualmente se cuenta con diferentes mecanismos para el silenciamiento especifico de genes mediante el uso de dsRNA (dsRNA, en inglés), para inducir el silenciamiento génico mediante ARNi (RNAi, en inglés). El objetivo de esta investigación es analizar el efecto de la aplicación exógena de un dsRNA específico para el gen *RIN4* en la expresión del gen, en plantas de *C. sinensis* enfermas con HLB.
+:::
+
+## justificacion del proyecto
+
+::: {style="text-align:justify"}
+La producción de cítricos se ve afectada por el daño de plagas y enfermedades, que se traduce en pérdidas económicas. En la actualidad la enfermedad más devastadora para los cítricos a nivel mundial es el Huanglongbing (HLB); se estima que ha causado la muerte de árboles, principalmente en Asia, Sudáfrica y Brasil [@gonzález2018].
+
+Esta enfermedad pone en peligro la estabilidad de los sistemas de producción citrícolas al generar una disminución de la productividad, calidad y la pérdida progresiva los árboles, lo que se traduce como una pérdida económica parea el productor.
+:::
+
+::: panel-tabset
+### Pregunta de investigación
+
+¿Cuánto afectará la aplicación exógena de dsRNA la expresión del complejo *RPM1-RIN4-RPS2* en plantas de *C. sinensis* enfermas con HLB?
+
+### Hipotesis
+
+La aplicación exógena de dsRNA afectará la expresión de los genes del complejo RPM1-RIN4-RPS2 en plantas de *C. sinensis* infectadas con *Candidatus liberibacter asiaticus*.
+
+### Objetivo general
+
+Evaluar la expresión de los genes del complejo *RPM1-RIN4-RPS2* en plantas de *C. sinensis* con HLB posterior al tratamiento con dsRNA exógeno.
+
+### Objetivos particulares
+
+1)  Diseñar dsRNA para el silenciamiento del gen *RIN4* en *C. sinensis*.
+
+2)  Evaluar la expresión de los genes del complejo *RPM1-RIN4-RPS2* posterior a la aplicación exógena de dsRNA en plantas de *C. sinensis* con HLB.
+
+3)  Evaluar la expresión de síntomas en plantas de *C. sinensis* tratadas con dsRNA exógeno.
+:::
+
+## Antecedentes
 
 ## Impacto del HLB en la citriculcura
 
 ::: {style="text-align:justify"}
 El Huanglongbing (HLB) se presenta principalmente en cítricos y afecta los tejidos del floema, causando problemas para la traslocación de asimilados en las plantas susceptibles[@Folimonova2020a]. Además, causa desequilibrios metabólicos en el huésped por agotamiento de nutrientes e interferencia del transporte[@Zhaxi2020]. En la actualidad es posible regular negativamente la expresión de genes particulares para el control de la resistencia a patógenos, la tolerancia al estrés abiótico, los procesos de crecimiento y otras propiedades de las plantas mediante la inducción de ARN de interferencia (ARNi)[@Guo2022a].
 
-Se ha demostrado que los dsRNA confieren resistencia a enfermedades mediante la pulverización foliar, denominado silenciamiento genético inducido por pulverización o por spray (SIGS). Un estudio realizado en genes del complejo RPM1-RIN4-RPS2 mostró que la expresión del gen RIN4 en naranja enferma con HLB es mayor respecto a limón persa con HLB, lo cual tiene una relación que suprime al gen RPS2 de manera descontrolada, el cual está encargado de la activación mecanismos de respuesta a enfermedades. Por ende, se busca reducir la expresión del gen RIN4 y sentar las bases para un tratamiento foliar con base en dsRNA en cítricos susceptibles al HLB.
+Se ha demostrado que los dsRNA confieren resistencia a enfermedades mediante la pulverización foliar, denominado silenciamiento genético inducido por pulverización o por spray (SIGS). Un estudio realizado en genes del complejo *RPM1-RIN4-RPS2* mostró que la expresión del gen *RIN4* en naranja enferma con HLB es mayor respecto a limón persa con HLB, lo cual tiene una relación que suprime al gen RPS2 de manera descontrolada, el cual está encargado de la activación mecanismos de respuesta a enfermedades. Por ende, se busca reducir la expresión del gen *RIN4* y sentar las bases para un tratamiento foliar con base en dsRNA en cítricos susceptibles al HLB.
 :::
 
 ::: callout-warning
 ::: {style="text-align:justify"}
-El uso de esta tecnologia solo se ha probado para el sielenciamento de genes exogenos en agentes patogenos. 
+El uso de esta tecnologia solo se ha probado para el sielenciamento de genes exogenos en agentes patogenos.
 :::
 :::
 
 ::: {style="text-align:justify"}
-## Complejo RPM1-RIN4-RPS2
+## Complejo *RPM1-RIN4-RPS2*
 
-Dadas las funciones reguladoras negativas de RIN4 en los procesos relacionados con la defensa en muchas plantas, autores como [@Cheng2022] señalan que la regulación positiva del gen RIN4 puede modificar en las interacciones cítrico-bacteria, y su expresión puede estar relacionada con la alta susceptibilidad de los cítricos al HLB. Una investigación realizada por Mendoza-Pérez (2023), sobre la interacción de RIN4 dentro del complejo RPM1-RIN4-RPS2 en dos especias contrastantes al HLB (limón y naranja), se mostró que la expresión del gen RIN4 en limón persa es menor, en comparación con la expresión de RIN4 de naranja, como se observar en la figura 1. A su vez, podemos apreciar que la expresión del gen RPS2 en limón es considerablemente mayor que en naranja. Gracias a la relación que existe entre RIN4 y RPS2, el gen RIN4 de naranja está afectando la expresión de RPS2, a diferencia de lo que está ocurriendo en limón.
+Dadas las funciones reguladoras negativas de RIN4 en los procesos relacionados con la defensa en muchas plantas, autores como [@Cheng2022] señalan que la regulación positiva del gen RIN4 puede modificar en las interacciones cítrico-bacteria, y su expresión puede estar relacionada con la alta susceptibilidad de los cítricos al HLB. Una investigación realizada por Mendoza-Pérez (2023), sobre la interacción de RIN4 dentro del complejo *RPM1-RIN4-RPS2* en dos especias contrastantes al HLB (limón y naranja), se mostró que la expresión del gen *RIN4* en limón persa es menor, en comparación con la expresión de RIN4 de naranja, como se observar en la figura 1. A su vez, podemos apreciar que la expresión del gen *RPS2* en limón es considerablemente mayor que en naranja. Gracias a la relación que existe entre *RIN4* y *RPS2*, el gen *RIN4* de naranja está afectando la expresión de *RPS2*, a diferencia de lo que está ocurriendo en limón.
 :::
 
-:::{.panel-tabset}
-## RIN4
+::: panel-tabset
+## *RIN4*
+
 Encargade activar los mecanismos de interacccion planta patogeno ETI y PTI
 
-## RPM1
+## *RPM1*
+
 Permite la deteccion de agentes de AVR y AVG
 
-## RPS2
-Encargado de activar las respuestas hipersencibles de las plantas
+## *RPS2*
 
+Encargado de activar las respuestas hipersencibles de las plantas
 :::
+
 ## ![Comparación de la expresión del complejo RPM1-RIN4-RPS2 con PCR punto final en naranja valencia y limón persa (Mendoza-Pérez et al., 2023).](RIN4.JPG)
 
-::: {style="color:#CD5C5C"}
-:::
-
-## Obtencion de secuencias pertenecientes al gen RIN4
-Se realizo el alineamiento de las secuencias del gen RIN4 usando como base RIN4 de *A. thaliana*. Una vez identificadas las secuencias RIN4 de *C. sinensis* se identifico la proteina correspondiente. 
-
-:::{.panel-tabset}
-## Proteina RIN4 *C. sinensis*
-::: {style="color:#000080"}
-MAQRSHVPKFGNWENEDNVPYTMYFDKARKGRTGGTMINPNDPQENPDLL SDYEAQAPAPPSKIKAEPEKPLGQEAVRTTYERWRNKEGSDLRQSRDSPA RHDDMSCRAATESAHQRGGRVASSGETYKKPVRNSIGSDNSFERSPMHNQ ARNPRRGSLDSSSPSWEGKSVYTNSHGTPGRSRMRPNPRVDESPDKGAAV PKFGDWDENNPSSADGYTHIFNQVREERNSAGRAGMQSPSTQRNYHRPTN NDGVKSCCFPWGKK
-:::
-## Proteina *A. Thaliana*
-MARSNVPKFGNWEAEENVPYTAYFDKARKTRAPGSKIMNPNDPEYNSDSQSQAPPHPPSSRTK
-PEQVDTVRRSREHMRSREESELKQFGDAGGSSNEAANKRQGRASQNNSYDNKSPLHKNSYDGT
-GKSRPKPTNLRADESPEKVTVVPKFGDWDENNPSSADGYTHIFNKVREERSSGANVSGSSRTP
-THQSSRNPNNTSSCCCFGFGGK
-
-## Secuencia ARNm de *C. sinensis*
-ATGGCACAACGTTCACATGTACCGAAGTTTGGAAACTGGGAAAATGAAGA
-TAATGTTCCTTACACAATGTATTTTGACAAGGCCAGGAAGGGTCGGACTG
-GGGGGACGATGATTAATCCAAATGACCCGCAGGAGAACCCGGACTTATTG
-TCTGATTATGAAGCTCAAGCTCCAGCTCCTCCTTCCAAGATCAAAGCTGA
-ACCAGAGAAGCCTCTGGGACAAGAAGCAGTTAGAACAACTTATGAAAGAT
-GGAGGAACAAAGAGGGTAGTGATCTCAGGCAGTCCAGAGACTCACCAGCA
-CGTCATGATGACATGAGCTGCAGAGCTGCCACTGAGTCTGCTCATCAACG
-AGGAGGTCGTGTAGCAAGTTCTGGTGAAACATACAAGAAGCCTGTAAGAA
-ACAGTATAGGTTCAGACAACAGCTTTGAACGCTCCCCTATGCATAATCAG
-GCTAGGAACCCCAGAAGAGGTAGTCTGGATTCATCCTCTCCTTCATGGGA
-AGGAAAGAGTGTGTATACAAATAGCCATGGTACTCCTGGAAGATCTCGAA
-TGAGGCCAAATCCAAGAGTCGATGAAAGTCCTGATAAAGGGGCTGCAGTT
-CCTAAATTTGGGGATTGGGATGAGAATAACCCTTCATCAGCTGATGGTTA
-CACTCACATTTTTAACCAAGTGCGAGAGGAGAGAAACAGTGCAGGAAGAG
-CAGGCATGCAAAGTCCTTCCACGCAGAGAAACTATCATAGGCCAACTAAT
-AATGACGGTGTCAAGAGTTGTTGCTTTCCTTGGGGCAAGAAATAA
-:::
-## Resultados del silenciamiento de genes mediante dsRNA de genes CHLH en A. thaliana
-
-![Resultados de sielenciamiento de CHLH en A. thaliana[@Hendrix2021].](A.%20thaliana.jpg)
+Genes como *RIN4* son proteínas localizadas en la membrana de células, funge como regulador de la inmunidad vegetal[@Alam2021]. La sobreexpresión de RIN4 inhibe la activación del gen *RPS2*, por lo tanto, se requiere la desaparición de *RIN4* para la activación completa de *RPS2* [@Belkhadir2004]. Dado la función del gen *RIN4* sobre la activación de mecanismos de respuesta a patógenos, este estudio propone el uso dsRNA vía foliar para el silenciamiento génico de *RIN4*.
 
 ## Mecanismos de silenciamiento genico
 
 ::: {style="text-align:justify"}
 La interferencia de ARN (RNAi) es un mecanismo de silenciamiento genético utilizado por plantas y otros eucariotas para regular la expresión de genes endógenos, silenciar transposones (y otras regiones heterocromáticas) y defenderse de infecciones virales [@Baulcombe2004]. Se logra mediante la acción de un ARN pequeño (sRNA) con complementariedad con la secuencia del gen diana unido a una proteína argonauta (AGO) para formar un complejo de silenciamiento inducido por ARN (RISC). El silenciamiento puede ocurrir a nivel transcripcional o postranscripcional, dependiendo de las formas específicas de estos componentes. Estos siRNA secundarios pueden amplificar el silenciamiento del objetivo primario o actuar en trans para silenciar a miembros de una familia de genes, como el ejemplo bien estudiado de los ARNm de resistencia a enfermedades NBS-LRR [@Axtell2003].
+:::
+
+::: {style="text-align:justify"}
+![Aplicaciones de ARN exógeno para la inducción de ARNi del patógeno vegetal objetivo o ARNm endógenos de plantas [@Dubrovina2019].](silenciamiento.JPG)
+:::
+
+## Resultados del silenciamiento de genes mediante dsRNA de genes CHLH en *A. thaliana*
+
+En este trabajo de evaluo el efecto de la aplicación de dsRNA para el gen *CHLH* relacionado con la producción de clorofila. Las manchas amarillas en las ojas indican que existió silenciamiento de dicho gen tras la aplicacion de dsRNA via tópica (b), tal como se puede aprecial en la siguiente imagen:
+
+![Resultados de sielenciamiento de CHLH en A. thaliana[@Hendrix2021].](A.%20thaliana.jpg)
+
+## materiales y metodos
+
+::: panel-tabset
+### Obtencion de secuencias pertenecientes al gen RIN4
+
+Se realizará el alineamiento de las secuencias del gen *RIN4* usando como base RIN4 de *A. thaliana*. Una vez identificadas las secuencias RIN4 de *C. sinensis* se identificó la proteina correspondiente.
+
+### Diseño de dsRNA para gen *RIN4* de *C. sinensis*
+
+::: {style="text-align:justify"}
+El dsRNA se diseñará específicamente para detener la transcripción del gen *RIN4* en *C. sinensis*, y se diseñará en (https://eurofinsgenomics.eu/en/dna-rna-oligonucleotides/oligo-tools/sirna-design-tool/) para realizar qPCR.
+
+![](euro.JPG)
+:::
+
+### Síntesis de dsRNA
+
+::: {style="text-align:justify"}
+Para la síntesis del ARN de doble cadena se sintetizará mediante la empresa T4-Oligo (https://t4oligo.com).
+:::
+
+### Obtención de planta enfermas con HLB
+
+::: {style="text-align:justify"}
+Para la obtención de la planta enferma de HLB se realizarán injertos sobre plantas de *C. sinensis*. Las yemas se obtendran de plantas infectadas con HLB, a las cuales se les realizarán pruebas para la detección de la enfermedad (PCR punto final). Las condiciones se aprecian en lña siguiente imagen:
+:::
+
+![](HLB.JPG)
+
+::: {.callout-tip}
+Las plantas se pueden almacenar en un vivero para evitar los riesgos de contagio de otras enfermedades o evitar el ataque de insectos como minador o araña roja. 	
+:::
+
+### Abrasión de hoja para aplicación de dsRNA
+
+::: {style="text-align:justify"}
+Se utilizará una lija p600 enrollada en un cilindro para facilitar la abrasión de las hojas. Se realizará la abrasión previa a la aplicación de dsRNA en el has en las hojas seleccionadas con una gota de agua destilada estéril.
+
+::: {.callout-important}
+La abración de la hoja se debe hacer en la parte del haz y con extrema cautela para evitar romperla. 
+:::
+![Herranienta para abración de hojas](dsRNA.JPG)
+:::
+
+
+### Aplicación de dsRNA
+
+::: {style="text-align:justify"}
+ La aplicación de dsRNA se realizará mediante brochas o micropipeta a una concentracion de 200 ppm con un penetrante y técnicas para disminuir factores de riesgo.
+:::
+
+::: {.callout-note}
+La aplicacion se realizara posterior a la abrasión.
+:::
+
+![](1.0.JPG)
+
+### Expresión de RIN4
+
+::: {style="text-align:justify"}
+Se realizarán pruebas de expresión de RIN4 en diferentes periodos postaplicación, con PCR tiempo real (2 horas, 24 horas, 48 horas, 72 horas, una semana y dos semanas).
+
+A su vez se evaluarán la expresión de genes RPM1 y RPS2 en diferentes periodos de tiempo post aplicación, con PCR tiempo real (2 horas, 24 horas, 48 horas, 72 horas, una semana y dos semanas).
+
+![](2.0.JPG)
+:::
+:::
+
+## Diseño experimental
+
+::: {style="text-align:justify"}
+Se utilizará un diseño completamente al azar, con cuatro tratamientos y tres repeticiones.
+
+![](3.0.JPG)
+:::
+
+## Análisis de datos
+
+::: {style="text-align:justify"}
+Para el análisis de datos se utilizará una prueba ANOVA utilizando el software estadístico R 2.12.2.
+:::
+
+## Avances
+
+Se han obtenido algunas de las secuencias de proteinas correspondientes a *C. sinensis*, *A. Thaliana* y la Secuencia ARNm de *C. sinensis*. dichos resultados se presentan a continuación.
+
+
+::: panel-tabset
+### Proteina RIN4 *C. sinensis*
+
+::: {style="color:#000080"}
+MAQRSHVPKFGNWENEDNVPYTMYFDKARKGRTGGTMINPNDPQENPDLL SDYEAQAPAPPSKIKAEPEKPLGQEAVRTTYERWRNKEGSDLRQSRDSPA RHDDMSCRAATESAHQRGGRVASSGETYKKPVRNSIGSDNSFERSPMHNQ ARNPRRGSLDSSSPSWEGKSVYTNSHGTPGRSRMRPNPRVDESPDKGAAV PKFGDWDENNPSSADGYTHIFNQVREERNSAGRAGMQSPSTQRNYHRPTN NDGVKSCCFPWGKK
+:::
+
+### Proteina *A. Thaliana*
+
+MARSNVPKFGNWEAEENVPYTAYFDKARKTRAPGSKIMNPNDPEYNSDSQSQAPPHPPSSRTK PEQVDTVRRSREHMRSREESELKQFGDAGGSSNEAANKRQGRASQNNSYDNKSPLHKNSYDGT GKSRPKPTNLRADESPEKVTVVPKFGDWDENNPSSADGYTHIFNKVREERSSGANVSGSSRTP THQSSRNPNNTSSCCCFGFGGK
+
+### Secuencia ARNm de *C. sinensis*
+
+ATGGCACAACGTTCACATGTACCGAAGTTTGGAAACTGGGAAAATGAAGA TAATGTTCCTTACACAATGTATTTTGACAAGGCCAGGAAGGGTCGGACTG GGGGGACGATGATTAATCCAAATGACCCGCAGGAGAACCCGGACTTATTG TCTGATTATGAAGCTCAAGCTCCAGCTCCTCCTTCCAAGATCAAAGCTGA ACCAGAGAAGCCTCTGGGACAAGAAGCAGTTAGAACAACTTATGAAAGAT GGAGGAACAAAGAGGGTAGTGATCTCAGGCAGTCCAGAGACTCACCAGCA CGTCATGATGACATGAGCTGCAGAGCTGCCACTGAGTCTGCTCATCAACG AGGAGGTCGTGTAGCAAGTTCTGGTGAAACATACAAGAAGCCTGTAAGAA ACAGTATAGGTTCAGACAACAGCTTTGAACGCTCCCCTATGCATAATCAG GCTAGGAACCCCAGAAGAGGTAGTCTGGATTCATCCTCTCCTTCATGGGA AGGAAAGAGTGTGTATACAAATAGCCATGGTACTCCTGGAAGATCTCGAA TGAGGCCAAATCCAAGAGTCGATGAAAGTCCTGATAAAGGGGCTGCAGTT CCTAAATTTGGGGATTGGGATGAGAATAACCCTTCATCAGCTGATGGTTA CACTCACATTTTTAACCAAGTGCGAGAGGAGAGAAACAGTGCAGGAAGAG CAGGCATGCAAAGTCCTTCCACGCAGAGAAACTATCATAGGCCAACTAAT AATGACGGTGTCAAGAGTTGTTGCTTTCCTTGGGGCAAGAAATAA
+:::
+
+::: {.callout-caution}
+Aun se analiza cual de las secuencias obtenidas es la más adecuada para este proyecto.
 :::

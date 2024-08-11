@@ -1,0 +1,30 @@
+---
+title: "El HLB en la citricultura"
+author: "Erick Mendoza"
+format: revealjs
+
+editor: visual
+---
+
+## Enfermedades en cítricos
+
+::: {style="text-align:justify"}
+Las principales enfermedades que se presentan en el cultivo de cítricos son: Gomosis (Phytophthora spp.), mancha grasienta (Mycosphaerella citri), muerte regresiva (Lasiodiploida theobromae), Virus de la tristeza de los cítricos (VTC) y el Huanglongbing (*Candidatus liberibacter* spp.).
+:::
+
+![](4.1.jpg)
+
+## Bullets
+
+When you click the **Render** button a document will be generated that includes:
+
+-   Content authored with markdown
+-   Output from executable code
+
+## Code
+
+When you click the **Render** button a presentation will be generated that includes both content and the output of embedded code. You can embed code like this:
+
+```{r}
+1 + 1
+```

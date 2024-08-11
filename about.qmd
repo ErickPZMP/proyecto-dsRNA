@@ -1,6 +1,6 @@
 ---
-title: "About"
-image: profile.jpg
+title: "about"
+image: complejo.jpg
 about:
   template: jolla
   links:
@@ -13,7 +13,13 @@ about:
     - icon: github
       text: Github
       href: https://github.com
-
 ---
 
-About this blog
+## Comentarios de clase  
+::: {style="text-align:justify"}
+En general los temas abordados en la materia fuerón bien explicados, mi recomendación es procurar realizar una estrategía donde todos puedan realizár los pasos con tiempo ya que ocurrio que muchos al tener problemas tecnicos no realizaron la actividad correctamente. en mi opinion ese es el unico factor a mejorar en el curso que se realizo.
+:::
+
+
+
+
