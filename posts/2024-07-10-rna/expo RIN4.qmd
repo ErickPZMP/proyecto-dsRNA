@@ -1,9 +1,17 @@
 ---
 title: "El HLB en la citricultura"
 author: "Erick Mendoza"
-format: revealjs
+format: 
+ revealjs:
+  footer: "[inicio](../../index.qmd)"
 
-editor: visual
+title-slide-attributes: 
+  data-background-image: "10.jpg"
+  data-background-size: "100%"
+  data-backgraund-opacity: "40%"
+  
+image: 10.JPG 
+
 ---
 
 ## Enfermedades en cítricos
@@ -14,17 +22,32 @@ Las principales enfermedades que se presentan en el cultivo de cítricos son: Go
 
 ![](4.1.jpg)
 
-## Bullets
 
-When you click the **Render** button a document will be generated that includes:
+## Sintomatología del HLB
+::: {style="text-align:justify"}
+La sintomatología de muestra como: 
 
--   Content authored with markdown
--   Output from executable code
+![](6.jpg)
+::: 
+## Huanglongbing (*Candidatus* liberibacter spp.) 
+::: {style="text-align:justify"}
+Es causada por  *Candidatus* liberibacter spp. y trasmitida por  Diaphorina citri Kuwayama.La bacteria se transmite mediante la picadura. 
 
-## Code
+Actalmente no se tiene un tratamiento contra esta enfermedad, pero aun se trabaja para encontrar posibles alternativas de control. 
+::: 
 
-When you click the **Render** button a presentation will be generated that includes both content and the output of embedded code. You can embed code like this:
+## Niveles de susceptibilidad al HLB
+::: {style="text-align:justify"}
+Algunas especies o variedades exhiben tolerancia al HLB continúan con su desarrollo aún con la enfermedad.
+![](5.jpg)
 
-```{r}
-1 + 1
-```
+El limón persa (*Citrus latifolia* Tanaka) considerada la especie menos susceptible.La susceptibilidad o tolerancia de un genotipo se asocia con la sub o sobre expresión de un conjunto de genes. 
+:::
+
+## Interacción planta patógeno del complejo *RPM1-RIN4-RPS2*  
+![](8.jpg)
+
+## Complejo RPM1-RIN4-RPS2 en variedades de cítricos 
+![Comparación de la expresión del complejo RPM1-RIN4-RPS2 con PCR punto final en naranja valencia y limón persa.](9.jpg)
+
+

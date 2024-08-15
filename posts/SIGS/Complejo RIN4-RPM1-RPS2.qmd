@@ -2,17 +2,20 @@
 title: "Complejo *RIN4-RPM1-RPS2*"
 author: "Erick A. Mendoza Perez"
 date: "2024-08-08"
-categories: [RIN4-RPM1-RPS]
-
+categories: [RIN4-RPM1-RPS2]
 ---
-## Caracteristicas del complejo 
+
+## Caracteristicas del complejo
+
 ::: {style="text-align:justify"}
-Estudios realizados Arabidopsis thaliana de RPM1 señalan que permite reconocer dos proteínas efectoras Pst no relacionadas con la secuencia, AvrB y AvrRpm1. El gen está asociado a la membrana y se degrada rápidamente al inicio de la respuesta hipersensible, lo que quizás revela un ciclo de retroalimentación negativa que funciona para limitar el grado de muerte celular y la amplitud de la respuesta general de resistencia a la enfermedad. 
+Estudios realizados Arabidopsis thaliana de RPM1 señalan que permite reconocer dos proteínas efectoras Pst no relacionadas con la secuencia, AvrB y AvrRpm1. El gen está asociado a la membrana y se degrada rápidamente al inicio de la respuesta hipersensible, lo que quizás revela un ciclo de retroalimentación negativa que funciona para limitar el grado de muerte celular y la amplitud de la respuesta general de resistencia a la enfermedad.
 
 RIN4 es una proteína localizada en la membrana de células, es un regulador de la inmunidad vegetal que juega un papel importante tanto en PTI como en ETI . Puede ser dirigido y modificado por varios efectores bacterianos diferentes, como AvrB, AvrRpm1, AvrRpt2 y puede interactuar con RPM1 , RPS2 y algunas otras proteínas de resistencia. Dadas las funciones reguladoras negativas de RIN4 en los procesos relacionados con la defensa en muchas plantas, se infirió que la regulación positiva del gen RIN4 puede funcionar en las interacciones cítrico-CLas, y su expresión regulada positivamente puede estar relacionada con la alta susceptibilidad de los cítricos al HLB. La sobreexpresión de RIN4 retrasa su desaparición en presencia de AvrRpt2 y, en consecuencia, inhibe la activación de RPS2, por lo tanto, se requiere la desaparición de RIN4 para la activación completa de RPS2. Una mutación nula de RIN4 es letal, lo que indica que RIN4 regula negativamente la activación inapropiada de RPS2.
 :::
-![El correcto funcionamiento genera una disminución del crecimiento bacteriano](RIN4.jpg)
 
+![](RIN4.jpg)
 
-
+::: callout-warning
+## El correcto funcionamiento genera una disminución del crecimiento bacteriano
+:::
 
