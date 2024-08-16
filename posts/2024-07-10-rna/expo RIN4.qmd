@@ -1,6 +1,7 @@
 ---
 title: "El HLB en la citricultura"
 author: "Erick Mendoza"
+categories: [presentación]
 format: 
  revealjs:
   footer: "[inicio](../../index.qmd)"
@@ -51,3 +52,8 @@ El limón persa (*Citrus latifolia* Tanaka) considerada la especie menos suscept
 ![Comparación de la expresión del complejo RPM1-RIN4-RPS2 con PCR punto final en naranja valencia y limón persa.](9.jpg)
 
 
+## Agradecimiento  
+::: {style="text-align:center"}
+Muchas gracias por su atención. 
+Comentarios a: mendoza2012mendoza@gmail.com 
+::: 
